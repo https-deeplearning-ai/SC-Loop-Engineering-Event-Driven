@@ -1,5 +1,7 @@
 # Event-Driven Requirements Review Agent
 
+> Lesson 5 (event-driven loop) companion repo for [Loop Engineering with LangChain Deep Agents](https://www.deeplearning.ai/courses/loop-engineering-with-langchain-deep-agents).
+
 A Requirements Review Agent (built with LangChain / `deepagents`) that runs behind
 two real triggers instead of a notebook cell: a **Slack bot** you can message
 directly, and a **Jira/Confluence webhook** triggered by a real button on a
